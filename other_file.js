@@ -1,2 +1,2 @@
-var index = require("./index.js") // the require parameter returns the whole file
+var index = require("./index.js") // saves the index.js file to the variable 'index'
 console.log(index.name)
